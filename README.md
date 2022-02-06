@@ -22,9 +22,16 @@ The result is shown below. Two windows show the segmentation by the app, the seg
 
 ![image](https://user-images.githubusercontent.com/44035895/152666022-06fbf2eb-e69e-4999-bd72-7da872989f88.png)
 
+
+The console output will be as follows: 
+
+![image](https://user-images.githubusercontent.com/44035895/152666099-3adb482a-bd63-4673-922d-56eaeadf31b4.png)
+
+
    
 2. To run the segmentation on another image add the following args:
 
 --input="path to new image"
+
 --mask="path to new image gt mask"
 
